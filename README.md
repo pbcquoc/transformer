@@ -34,6 +34,8 @@ Một cái nhìn vừa tổng quát và chi tiết sẽ giúp ích cho các bạ
 </p>
 
 [Read More](https://pbcquoc.github.io/transformer/)
+# Dataset
+Mình cung cấp sẵn cho các bạn một dữ liêu [en-vi](https://drive.google.com/file/d/1Fuo_ALIFKlUvOPbK5rUA5OfAS2wKn_95/view) gồm 60k câu được thu thập và xử lý trên TED.
 
 # Implementation
 Các bạn hãy xem file notebook trên nhé

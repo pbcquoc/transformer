@@ -38,7 +38,7 @@ Một cái nhìn vừa tổng quát và chi tiết sẽ giúp ích cho các bạ
 Mình cung cấp sẵn cho các bạn một dữ liêu [en-vi](https://drive.google.com/file/d/1Fuo_ALIFKlUvOPbK5rUA5OfAS2wKn_95/view) gồm 60k câu được thu thập và xử lý trên TED.
 
 # Implementation
-Các bạn hãy xem file notebook trên nhé
+Các bạn hãy xem file [notebook](https://github.com/pbcquoc/transformer/blob/master/transformer.ipynb) trên nhé
 
 ## Problem
 Nếu có bất kì vấn đề gì, các bạn có thể liên hệ với mình @ pbcquoc@gmail.com
